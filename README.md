@@ -9,10 +9,9 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mit-sheth)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miteduc8@gmail.com)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/flickswiper/id6758966666
-FlickSwiper)
+<a href="https://linkedin.com/in/mit-sheth"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:miteduc8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://apps.apple.com/us/app/flickswiper/id6758966666"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
 
 </div>
 
@@ -29,8 +28,7 @@ let mit = Developer(
 )
 ```
 
-- 🍎 **Published iOS Developer** — [FlickSwiper](https://apps.apple.com/us/app/flickswiper/id6758966666
-FlickSwiper) is live on the App Store
+- 🍎 **Published iOS Developer** — <a href="https://apps.apple.com/us/app/flickswiper/id6758966666">FlickSwiper</a> is live on the App Store
 - 🔨 Building **StreakSync** — a SwiftUI app for tracking daily puzzle game streaks
 - 🔬 Previously the **sole iOS developer** on NSF-funded research at Northeastern's Network Science Institute
 - 📄 **IEEE Best Paper** winner at ICACTA 2023
@@ -43,7 +41,7 @@ FlickSwiper) is live on the App Store
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="YOUR_APP_STORE_LINK_HERE">
+      <a href="https://apps.apple.com/us/app/flickswiper/id6758966666">
         <img src="https://img.shields.io/badge/FlickSwiper-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="FlickSwiper"/>
       </a>
       <br/><br/>
@@ -55,8 +53,7 @@ FlickSwiper) is live on the App Store
       <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white"/>
       <img src="https://img.shields.io/badge/SwiftData-34C759?style=flat-square&logo=swift&logoColor=white"/>
       <br/>
-      <a href="https://apps.apple.com/us/app/flickswiper/id6758966666
-FlickSwiper"><img src="https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple&logoColor=white" height="30"/></a>
+      <a href="https://apps.apple.com/us/app/flickswiper/id6758966666"><img src="https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple&logoColor=white" height="30"/></a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/mit112/StreakSync">
@@ -134,12 +131,7 @@ FlickSwiper"><img src="https://img.shields.io/badge/Download_on_the-App_Store-bl
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mit112&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=ffffff&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mit112&theme=radical&hide_border=true&background=0D1117&ring=E94560&fire=E94560&currStreakLabel=E94560" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mit112&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=ffffff&langs_count=8" width="40%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mit112&theme=radical&hide_border=true&background=0D1117&ring=E94560&fire=E94560&currStreakLabel=E94560" width="60%"/>
 </div>
 
 ---
@@ -162,8 +154,8 @@ I'm actively looking for **Software Engineering** and **iOS Development** roles.
 
 If you're hiring or just want to chat about Swift, music, or F1 — reach out!
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mit-sheth)
-[![Email](https://img.shields.io/badge/Drop_me_a_line-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miteduc8@gmail.com)
+<a href="https://linkedin.com/in/mit-sheth"><img src="https://img.shields.io/badge/Let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:miteduc8@gmail.com"><img src="https://img.shields.io/badge/Drop_me_a_line-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/>
 
