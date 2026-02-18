@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Mit%20Sheth&fontSize=50&fontColor=e94560&fontAlignY=35&desc=iOS%20Developer%20%7C%20Software%20Engineer%20%7C%20Published%20on%20the%20App%20Store&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=55&lines=Building+apps+that+ship+%F0%9F%9A%80;MS+Software+Engineering+%40+Northeastern+%7C+3.8+GPA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+apps+that+ship+%F0%9F%9A%80;MS+Software+Engineering+%40+Northeastern+%7C+3.8+GPA" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -124,14 +124,6 @@ let mit = Developer(
 ![Core Data](https://img.shields.io/badge/Core_Data-007AFF?style=for-the-badge&logo=apple&logoColor=white)
 ![SwiftData](https://img.shields.io/badge/SwiftData-34C759?style=for-the-badge&logo=swift&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mit112&theme=radical&hide_border=true&background=0D1117&ring=E94560&fire=E94560&currStreakLabel=E94560" width="60%"/>
 </div>
 
 ---
