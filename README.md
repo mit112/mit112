@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Mit%20Sheth&fontSize=50&fontColor=e94560&fontAlignY=35&desc=iOS%20Developer%20%7C%20Software%20Engineer%20%7C%20Published%20on%20the%20App%20Store&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+apps+that+ship+%F0%9F%9A%80;MS+Software+Engineering+%40+Northeastern+%7C+3.8+GPA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Building+apps+that+ship+%F0%9F%9A%80;MS+Software+Engineering+%40+Northeastern+%7C+3.8+GPA" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -146,8 +146,8 @@ I'm actively looking for **Software Engineering** and **iOS Development** roles.
 
 If you're hiring or just want to chat about Swift, music, or F1 — reach out!
 
-<a href="https://linkedin.com/in/mit-sheth"><img src="https://img.shields.io/badge/Let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:miteduc8@gmail.com"><img src="https://img.shields.io/badge/Drop_me_a_line-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mit-sheth"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:miteduc8@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/>
 
