@@ -11,7 +11,8 @@
 <!-- Social Badges -->
 <a href="https://linkedin.com/in/mit-sheth"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:miteduc8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://apps.apple.com/us/app/flickswiper/id6758966666"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+<a href="https://apps.apple.com/us/app/flickswiper/id6758966666"><img src="https://img.shields.io/badge/FlickSwiper-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+<a href="https://apps.apple.com/us/app/streaksync-puzzle-tracker/id6755203446"><img src="https://img.shields.io/badge/StreakSync-FF6B6B?style=for-the-badge&logo=app-store&logoColor=white"/></a>
 
 </div>
 
@@ -28,8 +29,7 @@ let mit = Developer(
 )
 ```
 
-- 🍎 **Published iOS Developer** — <a href="https://apps.apple.com/us/app/flickswiper/id6758966666">FlickSwiper</a> is live on the App Store
-- 🔨 Building **StreakSync** — a SwiftUI app for tracking daily puzzle game streaks
+- 🍎 **Published iOS Developer** — <a href="https://apps.apple.com/us/app/flickswiper/id6758966666">FlickSwiper</a> & <a href="https://apps.apple.com/us/app/streaksync-puzzle-tracker/id6755203446">StreakSync</a> are live on the App Store
 - 🔬 Previously the **sole iOS developer** on NSF-funded research at Northeastern's Network Science Institute
 - 📄 **IEEE Best Paper** winner at ICACTA 2023
 - 🎯 Looking for **Software Engineering / iOS** roles
@@ -56,19 +56,19 @@ let mit = Developer(
       <a href="https://apps.apple.com/us/app/flickswiper/id6758966666"><img src="https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple&logoColor=white" height="30"/></a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/mit112/StreakSync">
-        <img src="https://img.shields.io/badge/StreakSync-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="StreakSync"/>
+      <a href="https://apps.apple.com/us/app/streaksync-puzzle-tracker/id6755203446">
+        <img src="https://img.shields.io/badge/StreakSync-FF6B6B?style=for-the-badge&logo=app-store&logoColor=white" alt="StreakSync"/>
       </a>
       <br/><br/>
       <b>🧩 StreakSync</b>
       <br/>
-      <sub>Track daily puzzle game streaks across 50+ games like Wordle, Connections & more. Share Extension parsing, CloudKit sync, and tiered achievements.</sub>
+      <sub>Track daily puzzle game streaks across 15 games like Wordle, Connections & more. Share Extension parsing, Firebase sync, and tiered achievements.</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
       <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CloudKit-007AFF?style=flat-square&logo=icloud&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       <br/>
-      <a href="https://github.com/mit112/StreakSync"><img src="https://img.shields.io/badge/View_on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/></a>
+      <a href="https://apps.apple.com/us/app/streaksync-puzzle-tracker/id6755203446"><img src="https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple&logoColor=white" height="30"/></a>
     </td>
   </tr>
 </table>
@@ -130,7 +130,7 @@ let mit = Developer(
 
 ## 🏆 Highlights
 
-- 🍎 **Published iOS Developer** — FlickSwiper live on the App Store
+- 🍎 **2 Apps Published** — FlickSwiper & StreakSync live on the App Store
 - 📈 **40% startup performance improvement** — NSF-funded research app at Northeastern
 - 📊 **75% data collection efficiency gain** — production iOS app serving researchers nationwide
 - 🏅 **IEEE Best Paper Award** — ICACTA 2023, among 300 presentations
